@@ -20,4 +20,4 @@ Para visualizar o projeto localmente:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/PolicarpoConinck/portfolio.git
+   gh repo clone PolicarpoConinck/portifolio
