@@ -1,20 +1,22 @@
 # Portfólio
 
-Olá, Bem-vindo ao meu projeto de portfólio.
+![Banner](https://raw.githubusercontent.com/PolicarpoConinck/GitHub/main/3%20-%20HTML%20e%20CSS%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags/pagina%20web.png?token=GHSAT0AAAAAACUKKMNJNRRV3PGMKFBASMC4ZU23ZKA)
 
-![Portfolio Image](https://raw.githubusercontent.com/PolicarpoConinck/GitHub/main/3%20-%20HTML%20e%20CSS%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags/pagina%20web.png?token=GHSAT0AAAAAACUKKMNJNRRV3PGMKFBASMC4ZU23ZKA)
+## 🛸 Bem-vindo ao meu projeto de portfólio 🛸
 
-## Descrição
+Olá, bem-vindo ao meu projeto de portfólio. Este é um projeto pessoal criado para exibir minhas habilidades e projetos. Foi desenvolvido utilizando HTML, CSS e Flex-box para uma estrutura e design responsivos e modernos.
 
-Este é um projeto de portfólio pessoal criado para exibir minhas habilidades e projetos. Foi desenvolvido utilizando HTML, CSS e Flex-box para uma estrutura e design responsivos e modernos.
+---
 
-## Ferramentas Utilizadas
+## 🚀 Ferramentas Utilizadas
 
-* HTML
-* CSS
-* Flex-box
+* 🌐 **HTML**
+* 🎨 **CSS**
+* 📐 **Flex-box**
 
-## Instalação
+---
+
+## 🛠️ Instalação
 
 Para visualizar o projeto localmente:
 
