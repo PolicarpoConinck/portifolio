@@ -1,6 +1,6 @@
 # Portfólio
 
-![Banner]([https://raw.githubusercontent.com/PolicarpoConinck/GitHub/main/3%20-%20HTML%20e%20CSS%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags/pagina%20web.png?token=GHSAT0AAAAAACUKKMNJNRRV3PGMKFBASMC4ZU23ZKA](https://raw.githubusercontent.com/PolicarpoConinck/portifolio/main/pagina%20web.png))
+<p align="center"><img src="https://github.com/user-attachments/assets/06776139-92c4-4218-9a54-f63e1aa83ade" height="300" /></p>
 
 ## 🛸 Bem-vindo ao meu projeto de portfólio 🛸
 
